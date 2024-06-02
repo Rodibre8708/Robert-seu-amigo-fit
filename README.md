@@ -9,3 +9,7 @@ Criar esse aplicativo faz todo sentido, considerando a crescente demanda por fer
 
 Diagrama de casos de uso:
 
+![image](https://github.com/Rodibre8708/Robert-seu-amigo-fit/assets/150438774/d945acaf-fa88-4294-8c28-561dd600a349)
+
+
+Protótipo:
