@@ -7,6 +7,5 @@ Grupo: Arthur Vilanova, Lucas Dias, Rodrigo Victor Beltrão
 
 Criar esse aplicativo faz todo sentido, considerando a crescente demanda por ferramentas que ajudem a promover um estilo de vida saudável. Com o aumento do uso de smartphones, smartwatches, smartbands e aplicativos relacionados à saúde e bem-estar, vemos uma oportunidade significativa para desenvolver uma solução inovadora e eficaz.
 
-
 Diagrama de casos de uso:
 
