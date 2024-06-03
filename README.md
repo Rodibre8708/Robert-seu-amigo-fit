@@ -14,3 +14,8 @@ Diagrama de casos de uso:
 
 Protótipo:
 
+![tela 1](https://github.com/Rodibre8708/Robert-seu-amigo-fit/assets/150438774/e21b09fb-6c6f-4588-995d-e7a6a59b3e4b)
+
+![tela 2](https://github.com/Rodibre8708/Robert-seu-amigo-fit/assets/150438774/7d79df96-3d47-498c-a1d8-530be57fc7f2)
+
+![tela 3](https://github.com/Rodibre8708/Robert-seu-amigo-fit/assets/150438774/dd966eaa-86a6-403c-9c2f-f1561114261e)
